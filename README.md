@@ -1,1 +1,1 @@
-# petmvc
+The **Pet Management MVC CRUD** application follows the **Model-View-Controller** architecture for managing pet records. It enables **Create, Read, Update, and Delete (CRUD)** operations for pets, ensuring efficient data handling. The **Model** represents pet data, the **View** displays information, and the **Controller** manages user requests.
